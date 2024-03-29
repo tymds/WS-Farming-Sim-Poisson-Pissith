@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ab9359b3a9e924b80b81a2fe714676, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  <SeedName>k__BackingField: Banana
+  <Description>k__BackingField: "Fruit tropical exotique avec une grande quantit\xE9
+    de potassium."
+  <Price>k__BackingField: 50
+  <Sell>k__BackingField: 75
+  <GrowthSpeed>k__BackingField: 8
+  <SpriteSeed>k__BackingField: {fileID: 21300000, guid: 1e5ee80e2f83fcc42967ef748f5eaa7d, type: 3}
+  <SpriteSeedShop>k__BackingField: {fileID: 21300000, guid: 43ed926f7deb7f04e8f478e743637c2c, type: 3}
+  <SeedColor>k__BackingField: {r: 1, g: 0.7413453, b: 0, a: 0}
